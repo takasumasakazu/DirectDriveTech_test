@@ -21,4 +21,8 @@ https://twitter.com/ksasao/status/1487095273361129481
 
 ### M1502A_212
 
-データシート中国語：https://flbook.mwkj.net/c/efz2DIdF0E
+データシート中国語：https://flbook.mwkj.net/c/efz2DIdF0
+
+## 3D形状データ
+
+DDTのエンジニアから「文字中国語だけどいい？」という注意書きとともにくれた
