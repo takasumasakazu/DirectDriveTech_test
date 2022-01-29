@@ -26,3 +26,5 @@ https://twitter.com/ksasao/status/1487095273361129481
 ## 3D形状データ
 
 DDTのエンジニアから「文字中国語だけどいい？」という注意書きとともにくれた
+
+https://github.com/takasumasakazu/DirectDriveTech_test/tree/main/STEPdata
